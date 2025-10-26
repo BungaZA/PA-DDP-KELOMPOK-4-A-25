@@ -7,9 +7,29 @@ TEMA: Sistem Pemesanan Tiket Bis Digital
 Sistem Pemesanan Tiket Bis Digital adalah sistem berbasis Python yang memungkinkan pengelolaan data bus, penumpang, dan pemesanan tiket secara terintegrasi. Aplikasi ini memiliki dua jenis pengguna: **Admin** dan **Penumpang** dengan fitur yang berbeda.
 
 ## Anggota Kelompok
-- Bunga Zulfa Aqila - 2509116024
-- **Nama Anggota 2** - NIM  
-- **Nama Anggota 3** - NIM
+- **Bunga Zulfa Aqila** - 2509116024
+- **Aulia Sheva Savitri** - 2509116001
+- **Annisa Nayzhua Febriyani** - 2509116013
+
+
+## Flowchart
+<img width="2345" height="1418" alt="Bis digital-Menu utama y drawio" src="https://github.com/user-attachments/assets/0784865e-3dc9-4b63-a0f6-6bb01a8133b2" />
+
+<img width="1295" height="999" alt="Bis Digital-menu admin drawio" src="https://github.com/user-attachments/assets/6e4eb45e-d2a1-4560-9f57-5390f73f24b2" />
+
+<img width="610" height="507" alt="Screenshot 2025-10-26 190908" src="https://github.com/user-attachments/assets/b0708c47-d611-4b9f-bd31-b0eb69e1a680" />
+
+<img width="1340" height="426" alt="Screenshot 2025-10-26 191113" src="https://github.com/user-attachments/assets/abffb6c8-51a7-42ee-ab49-4e45c1c9b327" />
+
+<img width="1337" height="289" alt="Screenshot 2025-10-26 191242" src="https://github.com/user-attachments/assets/d28d8680-4928-450d-8764-0351e26269d6" />
+
+<img width="1123" height="520" alt="Screenshot 2025-10-26 191407" src="https://github.com/user-attachments/assets/835c45ab-932b-4236-9640-64552add6e7d" />
+
+<img width="790" height="367" alt="Screenshot 2025-10-26 191420" src="https://github.com/user-attachments/assets/3438d2e4-3767-4d53-975e-60487c231a54" />
+
+<img width="985" height="502" alt="Screenshot 2025-10-26 191439" src="https://github.com/user-attachments/assets/215335da-83b7-44fb-a2b0-58db275beb6a" />
+
+<img width="625" height="481" alt="Screenshot 2025-10-26 191454" src="https://github.com/user-attachments/assets/6feae965-a326-4d01-b23d-c5697934d2c3" />
 
 
 ## Fitur Utama
