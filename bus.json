@@ -1,0 +1,47 @@
+[
+    {
+        "no": 1,
+        "nomor_bus": "101",
+        "nama": "Mulawarman Jaya",
+        "asal": "samarinda",
+        "tujuan": "kutai kartanegara",
+        "status": "penuh",
+        "qty": 5,
+        "kovesional": 1,
+        "digital": 3,
+        "terisi": 5,
+        "harga": 30000
+    },
+    {
+        "no": 2,
+        "nomor_bus": "102",
+        "nama": "Putri Kumala",
+        "asal": "samarinda",
+        "tujuan": "kutai kartanegara",
+        "status": "tersedia",
+        "qty": 11,
+        "terisi": 2,
+        "harga": 100000
+    },
+    {
+        "no": 3,
+        "nomor_bus": "103",
+        "nama": "niscaya berhasil",
+        "asal": "samarinda",
+        "tujuan": "kutai kartanegara",
+        "status": "tersedia",
+        "qty": 16,
+        "terisi": 2,
+        "harga": 30000
+    },
+    {
+        "no": 4,
+        "nama": "toriyo",
+        "asal": "kutai kartanegara",
+        "tujuan": "samarinda",
+        "status": "tersedia",
+        "qty": 15,
+        "terisi": 0,
+        "harga": 40000
+    }
+]

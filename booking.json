@@ -1,0 +1,26 @@
+[
+    {
+        "username": "ani",
+        "nama_bis": "Mulawarman Jaya",
+        "tanggal_pembelian": "2025-10-25 17:48:19",
+        "harga_tiket": 30000
+    },
+    {
+        "username": "bunga",
+        "nama_bis": "niscaya berhasil",
+        "tanggal_pembelian": "2025-10-26 00:40:48",
+        "harga_tiket": 30000
+    },
+    {
+        "username": "bunga",
+        "nama_bis": "Putri Kumala",
+        "tanggal_pembelian": "2025-10-26 13:17:57",
+        "harga_tiket": 100000
+    },
+    {
+        "username": "kinoko",
+        "nama_bis": "niscaya berhasil",
+        "tanggal_pembelian": "2025-10-26 18:10:16",
+        "harga_tiket": 30000
+    }
+]
