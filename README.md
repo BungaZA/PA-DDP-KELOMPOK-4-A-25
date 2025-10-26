@@ -109,6 +109,13 @@ Program secara otomatis menyimpan data dalam file JSON:
 3. Lihat bus tersedia dan pesan tiket
 4. Kelola pemesanan melalui menu "Lihat Tiket Saya"
 
+
+### Output Program
+1. Tabel data menggunakan PrettyTable
+2. Menu interaktif dengan validasi input
+3. Notifikasi sukses/gagal yang jelas
+4. Laporan pemesanan dan finansial
+
 ## Error Handling
 Program telah dilengkapi dengan error handling untuk:
 - Input tidak valid
